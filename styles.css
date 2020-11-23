@@ -104,7 +104,7 @@ label {
 /* Section-1 Styles */
 .section-1 {
   padding: 3% 0 20em 0;
-  background: #f5989d url("static/algae.jpg") no-repeat center center;
+  background: url("static/algae.jpg") no-repeat center center;
   background-size: cover;
   color: #fff;
   font-size: 23px;
